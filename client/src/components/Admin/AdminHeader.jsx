@@ -15,8 +15,6 @@ function AdminHeader() {
     <div className="header-container">
       <span>Admin Dashboard</span>
  
-
-
 <button
   className="logout-button"
   onClick={handleLogout}

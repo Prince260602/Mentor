@@ -24,16 +24,13 @@
   .logout-button:hover {
     background-color: rgb(12, 66, 226);
   }
-  
-
-
 
   .logout-button {
     font-size: 1rem;
     padding: 0.25rem 1rem;
-    background-color: #2a68e3; /* Tailwind gray-500 */
+    background-color: #2a68e3;
     color: white;
     cursor: pointer;
-    margin-right: 55px;
+    /* margin-right: 35px; */
   }
   
