@@ -9,12 +9,12 @@ const Sidebar = () => {
         <Link to={'/admin'} className="link-item">
           <p className="text">Add Mentors</p>
         </Link>
-        <Link to={'/admin'} className="link-item">
+        {/* <Link to={'/admin'} className="link-item">
           <p className="text">ALL Mentors</p>
         </Link>
         <Link to={'/admin'} className="link-item">
           <p className="text">Mentors</p>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
