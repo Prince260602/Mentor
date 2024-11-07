@@ -49,7 +49,7 @@ function App() {
         </Route>
 
         <Route path="/admin" element={<AdminDashboard/>} />
-        <Route path="/AddMentors" element={<MentorForm  />} />
+        {/* <Route path="/AddMentors" element={<MentorForm  />} /> */}
         <Route path="*" element={<h1>404</h1>} />
 
         
